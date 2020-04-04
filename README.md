@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Purpose to create a website or email list of RFPs and RFQs from Louisiana Public Notice website.
 Website would be a table or list showing: Date, Parish, Public Notice Source, and a brief description of the notice.
 
@@ -15,3 +16,7 @@ Input search term and date range to generate dictionary of serachable results.
 nltk_helper.py
 Will be used to format results to place into a readable list to email.
 
+=======
+# lpa_adverts
+Louisiana Press Advertisement Search
+>>>>>>> 611408b5730f7c6378dac5ef10ab35ec001909ea
