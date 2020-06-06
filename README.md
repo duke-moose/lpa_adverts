@@ -14,3 +14,6 @@ Input search term and date range to generate dictionary of serachable results.
 
 nltk_helper.py
 Will be used to format results to place into a readable list to email.
+
+
+Software main term for the initial scrape, search each post for regex of database, ETL, dashboard, erp, cms, crm.
