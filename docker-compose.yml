@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  python_selenium:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    tty: true # Keeps container running, won't need with webserver.
+    image: moose/selenium-python
+    container_name: selenium-python
+    restart: unless-stopped
+    volumes:
+      - ./:/usr/src
+    environment:
+      - TZ=America/Chicago

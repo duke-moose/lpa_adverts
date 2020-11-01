@@ -1,0 +1,477 @@
+ARTICLE XXXVI. - GENERAL SIGN REGULATIONS[8]
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+
+Footnotes:
+--- (8) ---
+Editor's note— Ord. No. 24364, § L, adopted November 7, 2012, amended Art. XXXVI, in its entirety, to read as herein set out. Prior to inclusion of said ordinance, Art. XXXVI pertained to similar subject matter. See also the Code Comparative Table.
+
+Sec. 40-681. - Measurements.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+(1)
+Sign spacing. Detached and off-premises sign spacing shall be measured radially as the shortest horizontal distance between any part of one (1) sign and any part of a second sign.
+(2)
+Setbacks. Setbacks shall be measured radially as the shortest horizontal distance between any part of a sign and any perimeter lot line for the development site on which the sign is located.
+(3)
+Residential proximity. Residential proximity shall be measured radially as the shortest horizontal distance between any part of a sign and any lot line of a residentially zoned property.
+(4)
+Sign area calculations. The sign area shall comprise the area within a line including the outer extremities of all letters, figures, characters, and delineations, or within a line including the outer extremities of the framework or background of a sign, whichever line includes the larger area.
+a.
+Double-faced sign. The area of one (1) face shall be the sign area.
+b.
+Cylindrical sign. The area of a cylindrical sign shall be one-half (½) of the circumference multiplied by the height of the sign.
+c.
+Individual characters. The area of a sign made from individually cut out letters or symbols shall be the sum of the area of rectangles and triangles necessary to enclose each character.
+d.
+Monument signs. The area of a sign shall not include the pedestal the sign is mounted on.
+(5)
+Sign height. Height of a monument sign shall be measured from a plane extended horizontally from the surface of the existing adjacent sidewalk, or grade if there is no existing sidewalk, to the top of the sign and shall include the pedestal.
+(6)
+EVM sign lighting. An EVM sign's lighting shall be measured using one (1) of the following methods:
+a.
+Illuminance measurement using a light meter.
+1.
+The distance (rounded to the nearest foot) from which the illuminance is to be measured shall be calculated using the following formula:
+Where:
+x = Measurement distance in feet
+L = Allowable luminance of the sign = 323 cd/m 2
+A = Area of the sign in square feet
+ΔI = Change in illuminance = 0.3 fc
+2.
+Based on the measurement distance calculated above, the illuminance shall be measured at a corresponding distance perpendicular to the center of the EVM sign face. See Figure 40.681.1, Measurement point (plan view).
+See Figure 40.681.1, Measurement point (plan view)
+3.
+The light meter's photocell shall be set up at the measurement point at a height of five (5) feet above grade. The photocell shall be oriented to face the EVM sign panel. See Figure 40.682.2, Photocell orientation (elevation view).
+See Figure 40.682.2, Photocell orientation (elevation view)
+4.
+With the EVM sign displaying a solid white message, a measure of the illuminance shall be taken. For displays which utilize one (1) color only, the message shall be the solid color of the display.
+5.
+With the EVM sign off, a measure of the illuminance shall be taken.
+6.
+The illuminance of the sign shall be measured as the change in illumination and shall be calculated using the following formula:
+ΔI = I max - I min
+Where:
+ΔI = Change in illuminance
+I max = Illuminance measured with the sign on
+I min = Illuminance measured with the sign off
+b.
+Luminance measurement using a nit gun. An EVM sign's luminance shall be measured as the brightest part of the sign.
+1.
+The measurement point shall be located at a distance far enough from the EVM sign that individual LEDs (or other light-emitting source) are not distinguishable but close enough such that only the EVM sign panel is visible in the nit gun's eyepiece (LEDs are grouped in threes: one (1) red, one (1) blue, one (1) green. If these are individually distinguishable the measurement point must be located further away).
+2.
+The nit gun's target area shall be focused on the brightest part of the sign, as determined by the director of inspection and code enforcement or the director's designee, and a measurement shall be taken. See Figure 40.681.3, Target area.
+Figure 40.681.3, Target area
+(Ord. No. 24364, § L, 11-7-12; Ord. No. 25231 , § 6, 10-5-16)
+Sec. 40-682. - Regulations of general applicability.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+Requirements herein shall be applicable to both on- and off-premises signs.
+(1)
+Setback requirements. Unless otherwise specified in this Chapter, all signs shall comply with the yard requirements of the district in which they are located.
+(2)
+Height requirements. Unless otherwise specified in this Chapter, all signs shall meet the height requirements of the district in which the sign is located.
+(3)
+Electronic variable message signs. Electronic variable message (EVM) signs shall meet the following criteria:
+a.
+Sign area. An EVM sign may be a portion of a sign or may comprise the entire area of a sign. Only one (1) sign panel per sign face may utilize EVM technology.
+b.
+Display. The EVM sign shall display static messages/images only and the transition from one (1) static message or image to the next shall be instantaneous.
+c.
+Dwell time.
+1.
+On-premises EVM signs.
+i.
+For on-premises EVM signs located on streets classified as a minor arterial, major arterial, freeway, or interstate on the Jefferson Parish Thoroughfare Plan, each message or image shall have a minimum dwell time of three (3) seconds.
+ii.
+For on-premises EVM signs located on streets classified as a collector, neighborhood collector, or local street on the Jefferson Parish Thoroughfare Plan, each message or image shall have a minimum dwell time of six (6) seconds.
+2.
+Off-premises EVM signs. For off-premises EVM signs, each message or image shall have a minimum dwell time of eight (8) seconds.
+d.
+Malfunction display lock. The sign shall be programmed with a static default message or image. If a malfunction occurs:
+1.
+The default message or image shall freeze the sign in one (1) position; and
+2.
+The maximum light intensity shall be automatically set at three hundred twenty-three (323) candelas per square meter or the sign's illumination shall be turned off.
+e.
+Lighting. The sign shall be equipped with light sensors in accordance with the following:
+1.
+Controls. Ambient light sensors shall be installed prior to the sign's erection on a site and shall automatically adjust the light intensity of the sign based on ambient light conditions.
+2.
+Certification. At the time of application for a sign permit, written certification from the sign manufacturer shall be provided certifying that:
+i.
+Ambient light sensors are installed;
+ii.
+The light intensity of the sign has been preset to not exceed the levels established by this section; and
+iii.
+The preset intensity is protected from end user manipulation by password protected software or other approved method.
+3.
+Nighttime lighting. Between sunset and sunrise, as determined by the National Oceanic and Atmospheric Administration, the maximum light intensity shall not exceed three hundred twenty-three (323) candelas per square meter, or three-tenths (0.3) of a foot-candle above ambient light levels.
+f.
+Sound. EVM signs shall not emit audible sound.
+g.
+Prohibited EVM signs. EVM signs are prohibited for the following sign types:
+1.
+Temporary signs;
+2.
+Portable signs;
+3.
+Animated signs; and
+4.
+Vehicle signs which are used as an on-premises sign, a permanent identification, or to circumvent other parts of this Code.
+h.
+Conversion.
+1.
+Existing, legally conforming signs may be converted to an EVM sign when all applicable requirements are met.
+2.
+Nonconforming signs shall be prohibited from converting to an EVM sign unless such conversion shall cause the EVM sign to come into full compliance with all applicable regulations of this Code.
+i.
+Glare. Lighting on an EVM sign shall not cause glare which impairs the vision of the driver of a motor vehicle or to otherwise interfere with the safe operation of a motor vehicle.
+j.
+Maintenance. EVM signs and their components shall be properly maintained in full operational order, in accordance with section 32-8 of this Code.
+k.
+Nonconforming EVM signs. Nonconforming EVM signs in the H-2 Medical Service and more restrictive districts, including all residential districts, shall be prohibited from changing messages/images between 10:00 p.m. and 6:00 a.m.
+l.
+Variances. Variances to the EVM sign regulations may be granted under the following conditions:
+1.
+A variance for the EVM sign's height may be granted by the parish council when:
+i.
+The need for the variance was not created by the applicant; and
+ii.
+The variance is the minimum amount needed to relieve a hardship that is unique to the property.
+2.
+For off-premises EVM signs, the parish council may grant a variance to the spacing requirements between off-premises EVM signs, but in no case shall the council grant a variance allowing an off-premises EVM sign to be within five hundred (500) feet, measured radially, of another off-premises EVM sign.
+3.
+For on-premises signs, the board of zoning adjustments may grant a variance to allow one (1) attached EVM sign in place of a detached EVM sign.
+m.
+Exceptions.
+1.
+Pedestrian-oriented directory and menu signs shall not be considered an EVM sign when the following criteria are met:
+i.
+Number. For the site, only one (1) directory sign or one (1) menu sign shall be permitted to use EVM technology.
+ii.
+Sign area. The sign shall have a maximum area of three (3) square feet.
+iii.
+Location. The sign shall be attached to the wall within four (4) feet of the building's entrance or window serving walk-up customers.
+iv.
+Copy changes. The sign's copy does not change more than once per day.
+2.
+Menu boards for businesses offering drive-thru services shall not be considered an EVM sign and shall be subject to the following criteria:
+i.
+The EVM portion of the menu board shall comprise no more than fifty (50) percent of the menu board's area.
+ii.
+The menu board shall not be located within the first twenty (20) feet of the front of the development site and shall be located a minimum of twenty (20) feet from any lot line abutting a residential zoning district.
+3.
+The advertised price of motor fuels dispensed by a retail dealer may be displayed on more than one (1) EVM sign panel provided that the EVM sign panels shall be embedded in a non-EVM sign panel on a detached sign. See Figure 40.682.1, Embedded EVM sign panels within a non-EVM sign panel.
+Figure 40.682.1, Embedded EVM sign panels within a non-EVM sign panel
+4.
+An EVM sign may use a travelling transition subject to the following criteria:
+i.
+The sign has an area of fifteen (15) square feet or less.
+ii.
+If the EVM sign is located in the H-2 Medical Service District or a more restrictive district, including any residential district, the sign shall have no message/image changes between 10:00 p.m. and 6:00 a.m.
+n.
+Enforcement procedure for nighttime lighting requirements. The department of inspection and code enforcement shall use one (1) of the following procedures to issue citations for an EVM sign's lighting during nighttime hours:
+1.
+Illuminance measure using a light meter. EVM sign owners and/or operators shall be required to cooperate with the department of inspection and code enforcement when testing the sign.
+i.
+Upon receiving a complaint about an EVM sign's lighting at night, the department of inspection and code enforcement shall send a letter to the property owner. The letter shall include the following information:
+A.
+A summary of Jefferson Parish's sign lighting requirements for nighttime hours.
+B.
+Date and time a Code Enforcement officer will perform the inspection.
+C.
+Requirement that the sign owner/operator be present for the inspection of the EVM sign's lighting.
+D.
+Requirement that a solid white message (for monochrome displays, the message shall be the solid color of the display) be prepared prior to and available during the inspection.
+ii.
+During the inspection, the director of inspection and code enforcement or the director's designee shall take three (3) measures of the EVM sign's illumination, following the procedure set forth in section 40-681 of this article. The average of the three (3) measures shall be the sign's illumination.
+2.
+Luminance measure using a nit gun. During the inspection, the director of inspection and code enforcement or the director's designee shall take three (3) measures of the EVM sign's illumination, following the procedure set forth in section 40-681 of this article. The average of the three (3) measures shall be the sign's lumination.
+(4)
+The following signs shall be prohibited and no variance or special exception shall be granted authorizing such signs:
+a.
+Signs of any size mounted on trailers.
+b.
+Other portable signs with an area on one (1) side in excess of ten (10) square feet.
+(Ord. No. 24364, § L, 11-7-12)
+Sec. 40-683. - On-premises sign regulations.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+(a)
+Location. Detached signs in the following districts may be erected in the required front yard when located a minimum of seventy-five (75) feet from a 1-, 2-, 3-, or 4-family district:
+(1)
+Multiple-Family Residential District R-3.
+(2)
+Medical Service Districts H-1 and H-2.
+(3)
+General Offices Districts GO-1 and GO-2.
+(4)
+Old Bucktown Districts OBM-1 and OBM-2.
+(5)
+Fat City Districts FC-1, FC-2, and FC-3.
+(6)
+Business Core Districts BC-1 and BC-2.
+(7)
+Neighborhood Commercial District C-1.
+(8)
+General Commercial District C-2.
+(9)
+Office Warehouse District OW-1.
+(10)
+Industrial Districts M-1, M-2, and M-3.
+(11)
+Unrestricted Rural District U-1R
+(12)
+U-1 Unrestricted Suburban District U-1S
+(13)
+Commercial Parkway Overlay Zone CPZ.
+(14)
+Mixed Use Corridor District MUCD.
+(b)
+Number.
+(1)
+Unless otherwise stated in this chapter, no more than one (1) on-premises detached sign shall be erected on a development site.
+(2)
+A second on-premises detached sign may be erected on a through lot provided the following additional criteria are met:
+a.
+The sign is located in the second front yard.
+b.
+The sign is located in one (1) of the following districts:
+1.
+Medical Service Districts H-1 and H-2.
+2.
+Business Core Districts BC-1 and BC-2.
+3.
+Neighborhood Commercial District C-1.
+4.
+General Commercial District C-2.
+5.
+Office Warehouse District OW-1.
+6.
+Industrial Districts M-1, M-2, and M-3.
+7.
+Unrestricted Rural District U-1R.
+8.
+U-1 Unrestricted Suburban District U-1S.
+9.
+Commercial Parkway Overlay Zone CPZ.
+10.
+Mixed Use Corridor District MUCD.
+c.
+Sign area.
+1.
+The maximum sign area shall be seventy (70) square feet.
+2.
+If the through lot is located across from, adjacent to, or within seventy-five (75) feet of a residential development or district, the maximum sign area shall be twenty (20) square feet.
+3.
+The maximum height of the sign shall be twelve (12) feet.
+d.
+The sign shall be incorporated into a landscaping bed of at least sixty (60) square feet.
+e.
+The sign shall be set back from the lot line a distance at least equal to the height of the sign.
+(c)
+Height. On-premises signs within one hundred (100) feet of Interstate Highway 10 (I-10) where a sound wall has been erected shall be permitted an additional fifteen (15) feet of height over the height by right of the zoning district or sixty (60) feet in height, whichever is less.
+(d)
+Sign area. Signs within one hundred (100) feet of Interstate Highway 10 (I-10) where a sound wall has been erected shall be permitted an additional twenty (20) percent to the permitted sign area for a permitted detached sign for nonresidential uses.
+(e)
+Signs with supplemental criteria.
+(1)
+Illuminated signs. Flashing signs and signs with animated and scintillating lights are permitted only in the C-2 General Commercial District or less restrictive districts. Lights for such signs shall be limited to eleven (11) watts of illumination.
+(2)
+Beacon lights. Beacon lights are permitted only as required by the Federal Aviation Administration or other governmental agencies.
+(3)
+Roof signs. Roof signs on buildings shall not project more than six (6) feet above the highest point of the main structure except on the West Bank Expressway.
+(4)
+Monument signs. A pedestal for a monument sign shall extend from the area of the sign to the ground and shall be between one hundred (100) and one hundred twenty (120) percent as wide and deep as the sign.
+(5)
+Projecting or hanging signs. Any projecting or hanging sign shall be located at least eight (8) feet above ground level measured from the bottom of the sign to the top of the sidewalk, exterior walkway, or other surface.
+(f)
+Prohibited signs. Pennants, banners, streamers, and other fluttering, spinning or similar type signs and advertising devices shall be prohibited except:
+(1)
+National flags; flags of political subdivisions of the United States; and flags of bonafide civic, charitable fraternal, religious and welfare organizations provided that no more than three (3) flags that carry the name and/or logo of a company or business which is located on the premises where the flags are displayed.
+(2)
+During nationally recognized holiday periods or a special civic event, such as Mardi Gras, pennants, banners, and streamers pertaining to said period or events may be displayed on a temporary basis upon resolution of the parish council.
+(Ord. No. 23096, § I, 7-18-07; Ord. No. 24364, §§ L, LV, 11-7-12; Ord. No. 25020 , § XVI, 10-7-15; Ord. No. 25040 , § VIII, 11-4-15; Ord. No. 25231 , § 7, 10-5-16; Ord. No. 25411 , § 31, 8-23-17)
+Sec. 40-684. - Off-premises sign regulations.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+(a)
+Location.
+(1)
+Off-premises signs shall be permitted only in the following districts:
+a.
+General Commercial District C-2;
+b.
+Office Warehouse District OW-1;
+c.
+Industrial Districts M-1, M-2, M-3, and M-4;
+d.
+Unrestricted Rural District U-1R;
+e.
+Unrestricted Suburban District U-1S only on properties abutting the U.S. Highway 90 right-of-way.
+(2)
+No off-premises sign shall be permitted within:
+a.
+One hundred (100) feet of a residential district as measured radially from the farthest projection of the sign nearest the residential district.
+b.
+Five hundred (500) feet of an interstate highway as measured radially from the farthest projection of the sign nearest the adjacent interstate right-of-way.
+(b)
+Sign faces. Each off-premises sign shall be single- or double-faced and shall consist of one (1) sign panel per sign face.
+(c)
+Orientation. For an off-premises sign located on a corner lot, the sign shall be oriented to traffic on one (1) street only.
+(d)
+Sign area.
+(1)
+The maximum sign area shall be six hundred seventy-two (672) square feet.
+(2)
+The maximum sign face width shall be forty-eight (48) feet.
+(3)
+The maximum sign face height shall be fourteen (14) feet.
+(e)
+Height. The maximum height of off-premises signs shall be sixty-five (65) feet.
+(f)
+Setback regulations.
+(1)
+Unless otherwise stated in this chapter, off-premises signs shall meet the yard setbacks of the district in which they are located.
+(2)
+Off-premises signs located in the General Commercial District C-2 shall have a minimum front and rear yard setback of twenty (20) feet and a minimum side yard setback of ten (10) feet.
+(g)
+Spacing. There shall be a minimum distance of five hundred (500) feet measured radially between off-premises signs.
+(h)
+Supplemental criteria.
+(1)
+Parking spaces. Off-premises signs shall not be located so as to reduce the legal existing number of parking spaces on the premises. No variance or exceptions to this provision shall be granted by the board of zoning adjustments, the Jefferson Parish Council, or any parish board, commission, department or administrative agency.
+(2)
+Off-premises electronic variable message signs. The use of electronic variable message (EVM) technology in off-premises signs shall be permitted subject to the following additional criteria:
+a.
+Sign spacing.
+1.
+The minimum distance between off-premises EVM signs shall be one thousand (1,000) feet.
+2.
+The minimum distance between an off-premises EVM sign and an existing non-EVM off-premises sign shall be five hundred (500) feet.
+b.
+Residential proximity. Off-premises EVM signs shall be located a minimum of three hundred (300) feet (measured radially) from any residentially zoned district.
+c.
+Variances. No variance or exception for the minimum required distance between an off-premises EVM sign and any residential zoning district shall be granted by the parish council or any parish board, commission, department or administrative agency.
+(i)
+Applications for permits to erect, construct, relocate, or convert off-premises signs shall be submitted to the department of inspection and code enforcement. No application shall be accepted unless all of the following minimum information is submitted in addition to the application requirements found in section 40-685 of this chapter:
+(1)
+A legal description of the property.
+(2)
+Present name, address and phone number of the property owner and applicant.
+(3)
+A signed statement from the owner of the property acknowledging that an agreement has been reached with the applicant for the location of an off-premises sign on his property.
+(4)
+Two (2) copies of a current survey indicating all existing improvements of the property by a registered Louisiana land surveyor showing the lot, square, subdivision name, north point, scale, distance to the nearest intersecting street, the location of the proposed sign, distance of the sign structure (including catwalks) from each property line.
+(5)
+Certification by a registered Louisiana land surveyor indicating that the proposed sign complies with the minimum requirements for sign spacing and residential proximity stated in this section. All newly-erected off-premises signs must meet these requirements.
+(6)
+Two (2) copies of a plot plan, drawn to scale, showing any improvements on the property, including the location of the proposed sign, and any existing parking spaces.
+(7)
+The proposed off-premises sign shall meet all other applicable requirements of the Jefferson Parish Building Code.
+(8)
+No utilities shall be released in connection with the erection, construction, conversion, or relocation of an off-premises sign until two (2) copies of a certified as-built survey by a registered Louisiana land surveyor have been submitted to the department of inspection and code enforcement which shows that the sign complies with the requirements of this chapter and the Jefferson Parish Building Code.
+(Ord. No. 24364, § L, 11-7-12; Ord. No. 25020 , § XVII, 10-7-15)
+Sec. 40-685. - General sign permit and inspection regulations.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+The following regulations apply generally to all signs and are in addition to the regulations contained elsewhere in this Code:
+(1)
+No sign unless herein excepted shall be erected, constructed, posted, painted, altered, maintained, or relocated until a permit has been issued by the director of inspection and code enforcement.
+a.
+Before any permit is issued, an application shall be filed, including two (2) sets of dimensioned drawings and/or specifications (one (1) set to be returned to the applicant) prepared by a licensed architect or engineer and bearing his seal and statement to the effect that the drawings and/or specifications were prepared by him or under his supervision as may be necessary to fully advise and acquaint the Director with the following:
+1.
+Location of the sign;
+2.
+Method of construction and type of materials;
+3.
+Manner of illumination;
+4.
+Types of securings or fastenings;
+5.
+Number of signs applied for; and
+6.
+Wording of the sign or advertisement to be carried on the sign except in the case of the following:
+i.
+Off-premises signs.
+ii.
+On-premises signs where the copy or advertising is anticipated to be changed periodically and where such wording or advertising is not needed in computing the area of the sign.
+iii.
+On-premises signs with an area of less than twenty (20) square feet.
+b.
+All signs which are electrically illuminated, by any method, shall require a separate electrical permit, electrical inspection, and shall obtain a seal of approval from the Underwriters Laboratories, Inc.
+c.
+All signs shall be erected on or before the expiration of six (6) months from the date of issuance of the permit; the permit shall become null and void if the sign has not been erected within that period of time, and a new permit shall be required.
+d.
+Each sign requiring a permit shall be clearly marked with the permit number and name of the person or firm placing the sign on the premises. Such markings shall be placed on the sign or support structure no higher than six (6) feet above finish grade of the site.
+e.
+Fees for all sign permits shall be per the Building Code of the Parish of Jefferson.
+(2)
+Structural and safety features and electrical systems shall be in accordance with the requirements of the building code of the parish. No sign shall be approved for use unless it has been inspected by the department issuing the permit and is found to be in compliance with all the requirements of this chapter and other applicable technical codes.
+(Ord. No. 24364, § L, 11-7-12)
+Sec. 40-686. - Exceptions from these provisions.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+The following signs are exempt from the provisions of this chapter and may be erected or constructed without a permit when in accordance with the structural and safety requirements of the Building Code:
+(1)
+Signs erected or required to be erected by a government agency in furtherance of public safety, including official traffic signs, provisional warning signs, and temporary signs indicating danger.
+(2)
+Temporary non-illuminated signs, not more than eight (8) square feet in area advertising real estate for sale or lease or announcing contemplated improvements of real estate, and located on the premises, one (1) such sign for each street frontage.
+(3)
+Except in R-1, R-2, and RR-3 Districts, temporary non-illuminated signs not more than sixty-four (64) square feet in area erected in connection with the new construction work and displayed on the premises during such time as the actual construction work is in progress, one (1) such sign for each street frontage.
+(4)
+Cornerstone or tablet of bronze, brass or other non-combustible material when built into or attached to the wall of a building or structure, which states only the name of the building or structure, its use, the date of erection, names of owner, architect, municipal number, public officials or which gives information commemorating a person or event.
+(5)
+Sign on a truck, bus, or other operable vehicle which is used in the normal course of business, provided that such vehicle is not used as a permanent identification or to circumvent other parts of this Code.
+(6)
+Signs necessary for address identification.
+(7)
+Temporary political signs, maximum thirty-two (32) square feet.
+(8)
+A sign limited to the identification of the structure located on a building site in an R-3 Multiple-Family Residential zone may be permitted in the front yard area provided such sign does not exceed twenty (20) square feet in area.
+(9)
+Directional signs limited in area to ten (10) square feet each shall be permitted and shall not be included in any calculation of sign area.
+(Ord. No. 24364, § L, 11-7-12)
+Sec. 40-687. - Temporary permits.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+(a)
+The director of inspection and code enforcement, upon application as required in this section may issue temporary permits for the following signs and displays for a period of not exceeding thirty (30) days, when in his opinion the use of such signs and displays would be in the public interest and would not result in damage to private property.
+(b)
+Signs advertising a special civic or cultural event such as a fair or exposition, play, concert or meeting, sponsored by a government or charitable organization.
+(c)
+Special decorative displays used for holidays, public demonstrations, or promotion of non-partisan civic purposes.
+(d)
+Special sales promotion displays in a district where such sales are permitted, including displays incidental to the opening of a new business.
+(Ord. No. 24364, § L, 11-7-12)
+Secs. 40-688—40-695. - Reserved.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS

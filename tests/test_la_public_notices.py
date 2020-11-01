@@ -1,12 +1,10 @@
 import unittest
-from selenium import webdriver
 from time import sleep
-import LPA
+from app import LPA
 import os
-from datetime import datetime
+
 
 class InputFormsCheck(unittest.TestCase):
-
     # Opening browser.
     @classmethod
     def setUpClass(cls):
@@ -24,7 +22,7 @@ class InputFormsCheck(unittest.TestCase):
             'profile.set_preference(''browser.download.dir': save_dir,
         }
 
-        cls.lpa = LPA.aspx_scraper(Lpa_url, from_date, to_date, save_dir, pref)
+        cls.lpa = LPA.AspxScraper(Lpa_url, from_date, to_date, save_dir, pref)
 
         # # Finding "Search With all these words" input text field by name. And sending keys(entering data) in it.
         cls.ele_search = search

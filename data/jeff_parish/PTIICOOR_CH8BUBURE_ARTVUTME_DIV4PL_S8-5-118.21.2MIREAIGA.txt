@@ -1,0 +1,35 @@
+Sec. 8-5-118.21.2. - Minimum required air gap.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+1.
+How measured: The minimum required air gap shall be measured vertically from the lowest end of potable water outlet to the flood rim or line of the fixture or receptacle into which it discharges.
+2.
+Size: The minimum required air gap shall be twice the effective opening of a potable water outlet unless the outlet is a distance less than three (3) times the effective opening away from a wall or similar vertical in which cases the minimum required air gap shall be three (3) times the effective opening of the outlet. In no case shall the minimum required air gap be less than shown in the Table 8-5-118.21.2 "Minimum Air Gap for Generally Used Plumbing Fixtures."
+EXPAND
+Table 8-5-118.21.2
+MINIMUM AIR GAP FOR GENERALLY USED PLUMBING FIXTURES
+FIXTURE When not
+
+affected by near
+
+wall 1 (inches) When affected
+
+by near
+
+wall 2 (inches)
+Lavatories and other fixtures with effective openings not greater than ½″ diameter 1.0 1.50
+Sink, laundry trays, goose-neck bath faucets and other fixtures with effective openings not greater than ¾″ diameter 1.5 2.25
+Over rim bath fillers and other fixtures with effective openings not greater than 1″ diameter 2.0 3.0
+Drinking water fountains-single orifice 7/17 ″ (0.437) diameter or multiple orifices having total area of 0.150 sq. in. (area of circle 7/16 ″ diameter) 1.0 1.50
+  1.
+Side walls, ribs, or similar obstructions do not affect air gaps when spaced from inside edge of spout opening a distance greater than three (3) times the diameter of the effective opening for a single wall, or a distance greater than four (4) times the diameter of the effective opening for two (2) intersecting walls.
+2.
+Vertical walls, ribs, or similar obstructions extending from the water surface to or above the horizontal plane of the spout opening require a greater air gap when spaced closer to the nearest inside edge of spout opening than specified in note (1) above. The effect of three (3) or more such vertical walls or ribs has not been determined. In such cases, the air gap shall be measured from the top of the wall.
+3.
+Two (2) times diameter of effective opening.
+4.
+Three (3) times diameter of effective opening.
+(Ord. No. 22756, § 4, 5-17-06)

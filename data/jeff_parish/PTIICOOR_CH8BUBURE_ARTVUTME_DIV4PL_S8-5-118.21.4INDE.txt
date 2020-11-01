@@ -1,0 +1,13 @@
+Sec. 8-5-118.21.4. - Installation of devices.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+1.
+Vacuum breakers: Vacuum breakers shall be installed with the critical level at least six (6) inches above the flood level rim of the fixture they serve and on the discharge side of the last control valve to the fixture. No shutoff valve or faucet shall be installed beyond the vacuum breaker. For closed equipment or vessels such as pressure sterilizers the top of the vessel shall be treated as the flood level rim but a check valve shall be installed on the discharge side of the vacuum breaker.
+2.
+Reduced pressure principle backflow preventer: A reduced pressure principle type backflow preventer may be installed subject to full static pressure.
+3.
+Devices of all types: Backflow and backsiphonage preventing devices shall be accessibly located preferable in the same room with the fixture they serve. Installation in utility or service spaces, provided they are readily accessible, is also permitted.
+(Ord. No. 22756, § 4, 5-17-06)

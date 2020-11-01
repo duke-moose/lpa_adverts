@@ -1,0 +1,43 @@
+Sec. 8-5-118.21.5. - Tanks and vats—Below rim supply.
+SHARE LINK TO SECTION
+PRINT SECTION
+DOWNLOAD (DOCX) OF SECTIONS
+EMAIL SECTION
+COMPARE VERSIONS
+Where a potable water outlet terminates below the rim of a tank or vat and the tank or vat has an overflow of diameter not less than given in Table 8-5-118.21.5 "Sizes of Overflow Pipes for Water Supply Tanks," the overflow pipe shall be provided with an air gap as close to the tank as possible.
+TABLE 8-5-118.21.5
+SIZES OF OVERFLOW PIPES FOR WATER SUPPLY TANKS
+Minimum Capacity
+
+of Water
+
+Supply Line
+
+to Tank
+
+gpm) Capacity
+
+Diameter of
+
+(inches 10) Maximum Capacity
+
+of Water
+
+Supply Line
+
+to Tank
+
+gpm Diameter of
+
+Overflow Pipe
+
+(inches 10)
+0—50 2 400—700 5
+50—150 2½ 700—1,000 6
+100—200 3 Over 1,000 8
+200—400 4
+  1.
+The potable water outlet to the tank or vat shall terminate a distance not less than one and one-half (1½) times the height to which water can rise in the tank above the top of the overflow. This level shall be established at the maximum flow rate of the supply to the tank or vat and with all outlets except the air gap, overflow outlet closed.
+2.
+The distance from the outlet to the high water level shall be measured from the critical point of the potable water supply outlet.
+(Ord. No. 22756, § 4, 5-17-06)

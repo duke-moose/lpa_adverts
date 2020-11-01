@@ -1447,3 +1447,17 @@ JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityEr
 1582695707373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
 1582695707373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 Exiting due to channel error.
+1604266259877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHgOnCQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604266262334	Marionette	INFO	Listening on port 37623
+1604266262383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604266296465	Marionette	INFO	Stopped listening on port 37623
+1604266429119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile88folZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604266431419	Marionette	INFO	Listening on port 34023
+1604266431461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604266515958	Marionette	INFO	Stopped listening on port 34023
+1604268873211	geckodriver	INFO	Listening on 127.0.0.1:49113
+1604269688645	geckodriver	INFO	Listening on 127.0.0.1:49551
+1604269905744	geckodriver	INFO	Listening on 127.0.0.1:56197
+1604269950240	geckodriver	INFO	Listening on 127.0.0.1:45189
