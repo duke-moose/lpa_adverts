@@ -1,8 +1,0 @@
-Sec. 8-5-118.21.9. - Low pressure cutoff required on booster pumps.
-SHARE LINK TO SECTION
-PRINT SECTION
-DOWNLOAD (DOCX) OF SECTIONS
-EMAIL SECTION
-COMPARE VERSIONS
-When a booster pump is used on a water pressure booster system and the possibility exists that a positive pressure of ten (10) psi or less may occur on the suction side of the pump, there shall be installed a low pressure cutoff on the booster pump to prevent the creation of a vacuum or negative pressure on the suction side of the pump, thus cutting off water to the other outlets.
-(Ord. No. 22756, § 4, 5-17-06)
