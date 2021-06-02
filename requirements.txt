@@ -5,4 +5,4 @@ numpy==1.18.2
 regex==2020.4.4
 selenium==3.141.0
 tqdm==4.45.0
-urllib3==1.25.8
+urllib3==1.26.5
